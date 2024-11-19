@@ -1,0 +1,25 @@
+Project setup started at Tue 11/19/2024  0:35:50.36 
+ 
+Creating main directory: D:\Coolie\backend 
+A subdirectory or file D:\Coolie\backend already exists.
+Creating directory: src 
+A subdirectory or file D:\Coolie\backend\src already exists.
+Creating directory: src\controllers 
+A subdirectory or file D:\Coolie\backend\src\controllers already exists.
+Creating directory: src\middlewares 
+A subdirectory or file D:\Coolie\backend\src\middlewares already exists.
+Creating directory: src\models 
+A subdirectory or file D:\Coolie\backend\src\models already exists.
+Creating directory: src\routes 
+A subdirectory or file D:\Coolie\backend\src\routes already exists.
+Creating directory: src\config 
+A subdirectory or file D:\Coolie\backend\src\config already exists.
+Creating directory: src\utils 
+A subdirectory or file D:\Coolie\backend\src\utils already exists.
+Creating file: src\app.js 
+Creating file: .env 
+Creating file: .gitignore 
+Creating file: package.json 
+Creating file: Dockerfile 
+ 
+Project structure successfully created at Tue 11/19/2024  0:35:50.58 
