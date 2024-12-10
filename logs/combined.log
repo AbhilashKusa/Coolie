@@ -1,0 +1,13 @@
+[2024-11-19 01:31:37] INFO: Incoming Request: GET / - Body: {}
+[2024-11-19 01:32:35] INFO: Incoming Request: GET /auth/register - Body: {"name":"John Doe","email":"john@example.com","password":"123456","role":"client"}
+[2024-11-19 01:49:43] INFO: Register attempt: Email: john@example.com, Role: client
+[2024-11-19 01:49:43] INFO: User registered successfully: Email: john@example.com
+[2024-11-19 01:50:19] INFO: Register attempt: Email: john@example.com, Role: client
+[2024-11-19 01:50:19] WARN: Register failed: User already exists - Email: john@example.com
+[2024-11-19 01:50:34] INFO: Login attempt: Email: john@example.com
+[2024-11-19 02:03:26] INFO: Login attempt: Email: john@example.com
+[2024-11-19 02:03:26] WARN: Login failed: User not found - Email: john@example.com
+[2024-11-19 02:05:03] INFO: Register attempt: Email: john@example.com, Role: client
+[2024-11-19 02:05:03] INFO: User registered successfully: Email: john@example.com
+[2024-11-19 02:06:15] INFO: Login attempt: Email: john@example.com
+[2024-11-19 02:06:15] INFO: Login successful: Email: john@example.com

@@ -1,0 +1,128 @@
+[2024-11-19T07:18:25.800Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:18:53.966Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:19:06.667Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:19:31.438Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:19:46.696Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:19:47.294Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:22:21.017Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:22:40.449Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:22:49.193Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:24:10.387Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:24:17.158Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:24:26.408Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:24:44.065Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:24:47.224Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:24:48.024Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:24:49.107Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:24:58.112Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:25:02.899Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:25:24.971Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:25:27.508Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:25:41.522Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:25:55.631Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:25:56.105Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:26:24.544Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:27:58.033Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:28:27.495Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:28:52.990Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:29:17.621Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:29:32.656Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:29:34.340Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:29:46.340Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:29:57.343Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:32:15.229Z] INFO: Server Middleware initialized.
+[2024-11-19T07:32:15.232Z] ERROR: Unhandled exception: profileRoutes is not defined
+[2024-11-19T07:32:21.343Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:32:25.119Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:32:28.094Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:32:29.702Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:32:32.423Z] ERROR: Unhandled exception: Route.get() requires a callback function but got a [object Undefined]
+[2024-11-19T07:33:16.038Z] INFO: Profile Routes initialized.
+[2024-11-19T07:33:16.110Z] INFO: Server Middleware initialized.
+[2024-11-19T07:33:16.118Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:35:11.253Z] INFO: Profile route accessed by user ID: unknown
+[2024-11-19T07:35:11.254Z] WARN: Access denied: No token provided
+[2024-11-19T07:36:36.310Z] INFO: Login attempt: Email: undefined
+[2024-11-19T07:36:36.310Z] WARN: Login failed: Missing fields
+[2024-11-19T07:36:50.310Z] INFO: Register attempt: Email: undefined, Role: undefined
+[2024-11-19T07:36:50.312Z] WARN: Register failed: Missing fields
+[2024-11-19T07:38:06.416Z] INFO: Login attempt: Email: john@example.com
+[2024-11-19T07:38:06.418Z] WARN: Login failed: User not found - Email: john@example.com
+[2024-11-19T07:38:48.361Z] INFO: Register attempt: Email: john@example.com, Role: client
+[2024-11-19T07:38:48.589Z] INFO: User registered successfully: Email: john@example.com
+[2024-11-19T07:39:28.577Z] INFO: Register attempt: Email: undefined, Role: undefined
+[2024-11-19T07:39:28.578Z] WARN: Register failed: Missing fields
+[2024-11-19T07:40:22.928Z] INFO: Login attempt: Email: john@example.com
+[2024-11-19T07:40:23.020Z] INFO: Login successful: Email: john@example.com
+[2024-11-19T07:43:15.839Z] INFO: Profile Routes initialized.
+[2024-11-19T07:43:15.845Z] INFO: Server Middleware initialized.
+[2024-11-19T07:43:15.849Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:43:34.856Z] INFO: Auth routes initialized.
+[2024-11-19T07:43:34.862Z] INFO: Profile Routes initialized.
+[2024-11-19T07:43:34.863Z] INFO: Server Middleware initialized.
+[2024-11-19T07:43:34.867Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:44:00.198Z] INFO: Auth routes initialized.
+[2024-11-19T07:44:00.201Z] INFO: Server Middleware initialized.
+[2024-11-19T07:44:00.202Z] INFO: Initializing routes...
+[2024-11-19T07:44:00.212Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:44:11.188Z] INFO: Auth routes initialized.
+[2024-11-19T07:44:11.191Z] INFO: Server Middleware initialized.
+[2024-11-19T07:44:11.192Z] INFO: Initializing routes...
+[2024-11-19T07:44:11.194Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:47:09.108Z] INFO: Auth routes initialized.
+[2024-11-19T07:47:09.112Z] INFO: Server Middleware initialized.
+[2024-11-19T07:47:09.113Z] INFO: Initializing routes...
+[2024-11-19T07:47:09.118Z] INFO: Server running on http://localhost:8000
+[2024-11-19T07:47:14.150Z] INFO: Auth routes initialized.
+[2024-11-19T07:47:14.153Z] INFO: Server Middleware initialized.
+[2024-11-19T07:47:14.154Z] INFO: Initializing routes...
+[2024-11-19T07:47:14.157Z] INFO: Server running on http://localhost:8000
+[2024-11-23T07:37:07.051Z] INFO: Auth routes initialized.
+[2024-11-23T07:37:07.057Z] INFO: Profile Routes initialized.
+[2024-11-23T07:37:07.060Z] INFO: Initializing routes...
+[2024-11-23T07:37:07.066Z] INFO: Server running on http://localhost:8000
+[2024-11-23T07:38:37.863Z] INFO: Auth routes initialized.
+[2024-11-23T07:38:37.866Z] INFO: Profile Routes initialized.
+[2024-11-23T07:38:37.867Z] INFO: Initializing routes...
+[2024-11-23T07:38:37.870Z] INFO: Server running on http://localhost:8000
+[2024-11-23T07:38:48.442Z] INFO: Auth routes initialized.
+[2024-11-23T07:38:48.444Z] INFO: Profile Routes initialized.
+[2024-11-23T07:38:48.446Z] INFO: Initializing routes...
+[2024-11-23T07:38:48.448Z] INFO: Server running on http://localhost:8000
+[2024-11-23T07:41:52.450Z] INFO: Auth routes initialized.
+[2024-11-23T07:41:52.453Z] INFO: Profile Routes initialized.
+[2024-11-23T07:41:52.455Z] INFO: Initializing routes...
+[2024-11-23T07:41:52.457Z] INFO: Server running on http://localhost:8000
+[2024-11-23T07:41:57.140Z] INFO: Incoming request: GET /test-db
+[2024-11-23T07:54:51.966Z] INFO: Auth routes initialized.
+[2024-11-23T07:54:51.969Z] INFO: Profile Routes initialized.
+[2024-11-23T07:54:57.407Z] INFO: Initializing routes...
+[2024-11-23T07:54:57.416Z] INFO: Server running on http://localhost:8000
+[2024-11-23T07:54:57.522Z] ERROR: Database connection failed: Login failed for user 'root'.
+[2024-11-23T07:54:57.522Z] ERROR: Unhandled promise rejection: Error: Login failed for user 'root'.
+[2024-11-23T07:59:43.529Z] INFO: Auth routes initialized.
+[2024-11-23T07:59:43.549Z] INFO: Profile Routes initialized.
+[2024-11-23T07:59:53.019Z] INFO: Initializing routes...
+[2024-11-23T07:59:53.022Z] INFO: Server running on http://localhost:8000
+[2024-11-23T07:59:53.053Z] ERROR: Database connection failed: Login failed for user 'root'.
+[2024-11-23T07:59:53.054Z] ERROR: Unhandled promise rejection: Error: Login failed for user 'root'.
+[2024-11-23T08:03:50.290Z] INFO: Auth routes initialized.
+[2024-11-23T08:03:50.294Z] INFO: Profile Routes initialized.
+[2024-11-23T08:03:50.551Z] INFO: Initializing routes...
+[2024-11-23T08:03:50.554Z] INFO: Server running on http://localhost:8000
+[2024-11-23T08:03:50.592Z] INFO: Connected to SQL Server successfully
+[2024-11-23T08:42:46.896Z] INFO: Auth routes initialized.
+[2024-11-23T08:42:46.899Z] INFO: Profile Routes initialized.
+[2024-11-23T08:42:52.819Z] INFO: Initializing routes...
+[2024-11-23T08:42:52.824Z] INFO: Server running on http://localhost:8000
+[2024-11-23T08:42:52.890Z] INFO: Connected to SQL Server successfully
+[2024-11-23T08:43:32.902Z] INFO: Auth routes initialized.
+[2024-11-23T08:43:32.905Z] INFO: Profile Routes initialized.
+[2024-11-23T08:43:33.109Z] INFO: Initializing routes...
+[2024-11-23T08:43:33.113Z] INFO: Server running on http://localhost:8000
+[2024-11-23T08:43:33.157Z] INFO: Connected to SQL Server successfully
+[2024-12-10T05:35:07.109Z] INFO: Auth routes initialized.
+[2024-12-10T05:35:07.112Z] INFO: Profile Routes initialized.
+[2024-12-10T05:35:12.422Z] INFO: Initializing routes...
+[2024-12-10T05:35:12.427Z] INFO: Server running on http://localhost:8000
+[2024-12-10T05:35:12.507Z] INFO: Connected to SQL Server successfully

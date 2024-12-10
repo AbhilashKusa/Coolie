@@ -1,0 +1,4 @@
+[2024-11-19T07:44:10.045Z] INFO: Auth routes initialized.
+[2024-11-19T07:44:10.048Z] INFO: Server Middleware initialized.
+[2024-11-19T07:44:10.049Z] INFO: Initializing routes...
+[2024-11-19T07:44:10.052Z] INFO: Server running on http://localhost:8000
